@@ -1,6 +1,6 @@
 # Login Page with Selenium Test
 
-This project consists of a simple login page built with HTML, CSS, and JavaScript, along with a Selenium-based Python test script to validate the login functionality.
+This project consists of a simple login page built with HTML, CSS, along with a Selenium-based Python test script to validate the login functionality.
 
 ## Features
 
